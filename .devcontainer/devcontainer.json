@@ -1,4 +1,4 @@
 {
-    "workspaceFolder": "azdo",
+    "workspaceFolder": "/usr",
     "postCreateCommand": "git clone https://dev.azure.com/romanmialkin/testApplication/_git/simpleNodeApp azdo"
 }
